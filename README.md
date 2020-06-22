@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# hardest part - displaying the box over the face
+#Tychons npm package is used for styling
+#Particles.js npm package library is used
+#Clarifai API is Used for Face-Detection
+#nodejs - backend server
+#bcrypt-nodejs => for storing secure passwords
+#POSTgresql for databse
+#KNEX.js for connecting server to database 
+#KNEX.js transaction for operation of 2 tables 
+
 ## Available Scripts
 
 In the project directory, you can run:
